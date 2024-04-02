@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "marp --server --watch .",
-    "build": "marp .",
+    "dev": "marp --server --watch src",
+    "build": "marp src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
