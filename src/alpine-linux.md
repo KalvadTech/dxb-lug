@@ -71,10 +71,10 @@ Is Alpine Linux a practical choice for production environments?
 | Elements   |      Ubuntu      |  Debian  |
 |----------|:-------------:|:------:|
 | Kernel |  Linux | Linux (but old)  |
-| LibC  |    GLibC   |   GLibC  |
-| CoreUtils | GNU |   GNU  |
-| InitSystem | Systemd |    Systemd  |
-| Package Manager | apt |   apt  |
+| LibC  |    GLibC   |   GLibC (but old)  |
+| CoreUtils | GNU |   GNU (but old)  |
+| InitSystem | Systemd |    Systemd (but old)  |
+| Package Manager | apt |   apt (but old)  |
 
 Debian is just an old outdated and unsecure Ubuntu!
 
