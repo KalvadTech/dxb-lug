@@ -76,7 +76,7 @@ Is Alpine Linux a practical choice for production environments?
 | InitSystem | Systemd |    Systemd (but old)  |
 | Package Manager | apt |   apt (but old)  |
 
-Debian is just an old outdated and unsecure Ubuntu!
+Debian is just an old, outdated and unsecure Ubuntu!
 
 ---
 
