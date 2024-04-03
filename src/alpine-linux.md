@@ -17,7 +17,7 @@ Loïc Tosser
 ![bg right:40%](https://secure.meetupstatic.com/photos/event/c/5/4/c/clean_519710508.webp)
 # Introduction: Dubai Linux Users' Group
 
-- Thanks to Artur (Hail Artur) for pushing and Pierre
+- Special thanks to Artur (all hail Artur)
 - First Wednesday of every month
 - Discussion first
 - Hexagon ready for fights (hello Alaa)
@@ -107,7 +107,7 @@ Ubuntu and Alpine are different!
 
 ---
 
-![bg  fit left:50%](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnFva242c2lpNmloeHZhcGtrcWwxbXF4cDh3Y2J0YTV0cThraXJxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/56NShVbRxI0BMBGvkZ/giphy.gif)
+![bg  fit left:50%](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZuYXU1MXpxYTJ3aG92MWM3NjcyNWtvd2M4MDdtOTN6bmIxNncwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSYmbgG5Ug8S11K0FU/giphy.gif)
 
 # The Cornerstone of Linux: libc
 
@@ -237,7 +237,7 @@ Yes
 # Use cases
 
 - Containers
-- Security
+- Security (doas)
 - Own packaging
 - Network
 - VMs
